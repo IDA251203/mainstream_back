@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "nomi":"Коммутатор Ubiquiti EdgeSwitch 8 150W",
+        "birligi":"шт",
+        "tavar_soni": 50,
+        "type":"kommutator"
+    },
+    {
+        "id":2,
+        "nomi":"Коммутатор КЬЮТЭК QSW-4610-10T-AC",
+        "birligi":"шт",
+        "tavar_soni": 18,
+        "type":"kommutator"
+    },
+    {
+        "id":3,
+        "nomi":"Коммутатор доступа Eltex MES2324FB",
+        "birligi":"шт",
+        "tavar_soni": 22,
+        "type":"kommutator"
+    },
+    {
+        "id":4,
+        "nomi":"Коммутатор UniFi 8(150w) (US-8-150W)",
+        "birligi":"шт",
+        "tavar_soni": 25,
+        "type":"kommutator"
+    },
+    {
+        "id":5,
+        "nomi":"Коммутатор доступа Eltex MES2424 AC",
+        "birligi":"шт",
+        "tavar_soni": 15,
+        "type":"kommutator"
+    },
+    {
+        "id":6,
+        "nomi":"Коммутатор доступа Eltex MES2124P",
+        "birligi":"шт",
+        "tavar_soni": 20,
+        "type":"kommutator"
+    },
+    {
+        "id":7,
+        "nomi":"Коммутатор доступа Eltex MES2408",
+        "birligi":"шт",
+        "tavar_soni": 10,
+        "type":"kommutator"
+    },
+    {
+        "id":8,
+        "nomi":"Коммутатор доступа Eltex MES2428B",
+        "birligi":"шт",
+        "tavar_soni": 50,
+        "type":"kommutator"
+    }
+]
